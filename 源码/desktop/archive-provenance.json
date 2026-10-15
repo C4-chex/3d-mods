@@ -1,0 +1,15 @@
+{
+  "slicer": {
+    "revision": "a5df71450f1d27d87dc1c513bc25c57c702bf71d",
+    "date": "2026-06-23",
+    "url": "https://github.com/Slicer/Slicer",
+    "date_source": "https://api.github.com/repos/Slicer/Slicer/commits/a5df71450f1d27d87dc1c513bc25c57c702bf71d"
+  },
+  "ct3d": {
+    "revision": "ct3d-source-0.1.0",
+    "local_build_number": 20261011,
+    "date": "2026-10-11",
+    "url": "local-ct3d-source",
+    "date_scope": "Local source preparation date; not an upstream Git commit date"
+  }
+}

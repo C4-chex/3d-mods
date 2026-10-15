@@ -1,0 +1,42 @@
+[
+  {
+    "file": "CT3D\\CT3D.py",
+    "sha256": "EA1AB9DB4676A619752F55AD62737530CB528D907652DBC4B71D1F773DC97F3B",
+    "identical": true
+  },
+  {
+    "file": "CT3D\\CT3DLib\\__init__.py",
+    "sha256": "A01BDE4A82072B721CADA9F43E302FA7EF6A16348E694B613FDD6B4AFFEA2123",
+    "identical": true
+  },
+  {
+    "file": "CT3D\\CT3DLib\\CT3DExport.py",
+    "sha256": "80E5743B40620B3F6D779C900122DEC3DA1A4DA586A68777003E8BDF61B8716C",
+    "identical": true
+  },
+  {
+    "file": "CT3D\\CT3DLib\\CT3DMeasurements.py",
+    "sha256": "6DEDA50B3C9299FAC3AF6753A1DA26E333CFC55A9F587CAE4F24B19C9D883AB0",
+    "identical": true
+  },
+  {
+    "file": "CT3D\\CT3DLib\\CT3DReview.py",
+    "sha256": "AC7CF6521DDAABF7FB23A11E027910AA0CB1A29AD01B1D331C5D11A4376ED214",
+    "identical": true
+  },
+  {
+    "file": "CT3D\\CT3DLib\\CT3DViewLabels.py",
+    "sha256": "C74561CC6906F8FECF03CC8E1847718F1C9C17FA61226915EF652F463BE6685F",
+    "identical": true
+  },
+  {
+    "file": "ct part\\CT3DCTLib\\CT3DCTQuality.py",
+    "sha256": "C790CB771618A2987D102D2CF979954839A15E692C392F1983081AAA4A201487",
+    "identical": true
+  },
+  {
+    "file": "CT3D_产品原则.md",
+    "sha256": "CA3CEA688EF95EC29625A506FBE71BD47D7CDBF86277910729342C94882F09D8",
+    "identical": true
+  }
+]

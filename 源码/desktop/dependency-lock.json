@@ -1,0 +1,205 @@
+{
+  "purpose": "Fixed official source archives used to recover this native build; no patient data or local paths",
+  "archives": [
+    {
+      "project": "vtkAddon",
+      "repo": "Slicer/vtkAddon",
+      "tag": "2ed3e2226cf25958b4dbf8bf917b2f7793ecd6a2",
+      "url": "https://codeload.github.com/Slicer/vtkAddon/zip/2ed3e2226cf25958b4dbf8bf917b2f7793ecd6a2",
+      "sha256": "4f4480be94d0eb90012c67b941748c3329db63e2a88659c095548c3c5b34e354",
+      "bytes": 128054
+    },
+    {
+      "project": "zlib",
+      "repo": "Slicer/zlib-ng",
+      "tag": "de0aca6040339aad56d96ab1c29850b00ec36a9b",
+      "url": "https://codeload.github.com/Slicer/zlib-ng/zip/de0aca6040339aad56d96ab1c29850b00ec36a9b",
+      "sha256": "1c2cf4d04c06758cf867c550939e7f3cc335287c810abcdaa655fbd8030ecfdd",
+      "bytes": 2580978
+    },
+    {
+      "project": "teem",
+      "repo": "Slicer/teem",
+      "tag": "43395a690351cd98235de84775a8747d0bdae106",
+      "url": "https://codeload.github.com/Slicer/teem/zip/43395a690351cd98235de84775a8747d0bdae106",
+      "sha256": "855a18a79f7eb1cf57c8a660fb4fe492a920be1ce881a986cd4de0d7afa1b3b1",
+      "bytes": 4429018
+    },
+    {
+      "project": "tbb",
+      "repo": "uxlfoundation/oneTBB",
+      "tag": "v2022.3.0",
+      "url": "https://codeload.github.com/uxlfoundation/oneTBB/zip/v2022.3.0",
+      "sha256": "4f47379064f99cc50da8dde85e27651d3609ac6c3e0941b1c728a1b2dd1e4b68",
+      "bytes": 7674380
+    },
+    {
+      "project": "sqlite",
+      "repo": "rhuijben/sqlite-amalgamation",
+      "tag": "3.51.2",
+      "url": "https://codeload.github.com/rhuijben/sqlite-amalgamation/zip/3.51.2",
+      "sha256": "040e2c1f3b23d4221436c9b9e28794df61501ef56758ce5c2a16b9f72cd5c34e",
+      "bytes": 2886880
+    },
+    {
+      "project": "RapidJSON",
+      "repo": "slicer/rapidjson",
+      "tag": "4da93e4b581f88fecc460e2259f468faaa438554",
+      "url": "https://codeload.github.com/slicer/rapidjson/zip/4da93e4b581f88fecc460e2259f468faaa438554",
+      "sha256": "ffd49c572088c5e16e2d00bcd05a083a7df7a30b4e51f2b311e591e983acea33",
+      "bytes": 1277597
+    },
+    {
+      "project": "SlicerExecutionModel",
+      "repo": "Slicer/SlicerExecutionModel",
+      "tag": "91b921bd5977c3384916ba4b03705d87b26067f7",
+      "url": "https://codeload.github.com/Slicer/SlicerExecutionModel/zip/91b921bd5977c3384916ba4b03705d87b26067f7",
+      "sha256": "99616feabc79ca52060560cbd59126fe5e11be1468bfea4db32435f9d1b54cd9",
+      "bytes": 427416
+    },
+    {
+      "project": "python",
+      "repo": "python-cmake-buildsystem/python-cmake-buildsystem",
+      "tag": "5d8959631a7b647cf79cca62fabe1c1024b56247",
+      "url": "https://codeload.github.com/python-cmake-buildsystem/python-cmake-buildsystem/zip/5d8959631a7b647cf79cca62fabe1c1024b56247",
+      "sha256": "8415e40ce011933ac9be1b9f0228b97c131167bbe6f42257b90994279f00b4ac",
+      "bytes": 144781
+    },
+    {
+      "project": "LZMA",
+      "repo": "tukaani-project/xz",
+      "tag": "v5.8.2",
+      "url": "https://codeload.github.com/tukaani-project/xz/zip/v5.8.2",
+      "sha256": "f31af924df81d645720eee558a00394d3f8a6c59b97c315a541a6598a9aea3d2",
+      "bytes": 1833925
+    },
+    {
+      "project": "OpenJPEG",
+      "repo": "uclouvain/openjpeg",
+      "tag": "v2.5.4",
+      "url": "https://codeload.github.com/uclouvain/openjpeg/zip/v2.5.4",
+      "sha256": "1048d084b89ac1587e3b0dca00b863a757fed2bc1804c6355eb4bce9090356b7",
+      "bytes": 2492624
+    },
+    {
+      "project": "LibFFI",
+      "repo": "python-cmake-buildsystem/libffi",
+      "tag": "90704ad36f27b65b78573172127e7bea4ccd82bb",
+      "url": "https://codeload.github.com/python-cmake-buildsystem/libffi/zip/90704ad36f27b65b78573172127e7bea4ccd82bb",
+      "sha256": "357363023cc7215fca8f8173ed06e7a3da2217a3e7f096d1eb25361ae277ccf7",
+      "bytes": 988668
+    },
+    {
+      "project": "LibArchive",
+      "repo": "Slicer/libarchive",
+      "tag": "30a9657b6c12f675fd5057cea017b2c9bd924dda",
+      "url": "https://codeload.github.com/Slicer/libarchive/zip/30a9657b6c12f675fd5057cea017b2c9bd924dda",
+      "sha256": "df210d40c65db269183101e70979816efbeca3404256e7187831cd86edf1469b",
+      "bytes": 6999337
+    },
+    {
+      "project": "VTK",
+      "repo": "slicer/VTK",
+      "tag": "6181bb1223bbc499a340a1644f5356e7e152c318",
+      "url": "https://codeload.github.com/slicer/VTK/zip/6181bb1223bbc499a340a1644f5356e7e152c318",
+      "sha256": "cb216c71a65cf614ca5005fa4ef7299afc91405aa333f6c8020d3ae9c32fc575",
+      "bytes": 71349759
+    },
+    {
+      "project": "JsonCpp",
+      "repo": "Slicer/jsoncpp",
+      "tag": "9000f7710f3d2b6817a2d35cf5feaabd47cb2c81",
+      "url": "https://codeload.github.com/Slicer/jsoncpp/zip/9000f7710f3d2b6817a2d35cf5feaabd47cb2c81",
+      "sha256": "709acd99574183c1257dcb89dd957918c4928036eb027dd294902c9efcdfce2c",
+      "bytes": 289993
+    },
+    {
+      "project": "DCMTKcs",
+      "repo": "Slicer/DCMTKcs",
+      "tag": "fbfd93318d32fabc86704cdd279bcb3e9028dd41",
+      "url": "https://codeload.github.com/Slicer/DCMTKcs/zip/fbfd93318d32fabc86704cdd279bcb3e9028dd41",
+      "sha256": "f990c7e9534d5b531205a5957cd0dae1b0cd7b7197a520f1fb85075f43a436e7",
+      "bytes": 63004
+    },
+    {
+      "project": "ITK",
+      "repo": "Slicer/ITK",
+      "tag": "5bfed9195aa26be10b0c4df533b9685bcc10cefe",
+      "url": "https://codeload.github.com/Slicer/ITK/zip/5bfed9195aa26be10b0c4df533b9685bcc10cefe",
+      "sha256": "c52a358ec8d4a0f38827499bb4bd78d7e64ed335fd9c201324f47968c5088abb",
+      "bytes": 35006589
+    },
+    {
+      "project": "CTKAppLauncherLib",
+      "repo": "commontk/AppLauncher",
+      "tag": "a37ad37c06e6fb4fc203434787f8bbffb52749bb",
+      "url": "https://codeload.github.com/commontk/AppLauncher/zip/a37ad37c06e6fb4fc203434787f8bbffb52749bb",
+      "sha256": "7bfd22c514b81dca7897446a165b291fb77ece53c7b34a6db529c2fbe7106c7f",
+      "bytes": 354620
+    },
+    {
+      "project": "curl",
+      "repo": "curl/curl",
+      "tag": "curl-8_17_0",
+      "url": "https://codeload.github.com/curl/curl/zip/curl-8_17_0",
+      "sha256": "0be15247c07422a0061fda4758c0182bb9c688e40ecf968d1a0b92742a32667e",
+      "bytes": 6120869
+    },
+    {
+      "project": "CTK",
+      "repo": "commontk/CTK",
+      "tag": "5056664a20a3d0a393bb6d91f040525581e0dcdf",
+      "url": "https://codeload.github.com/commontk/CTK/zip/5056664a20a3d0a393bb6d91f040525581e0dcdf",
+      "sha256": "ca68636409d57f0213d18a5ab438d6f51645d205ff08f3ebb16fa5a85be312ec",
+      "bytes": 4776346
+    },
+    {
+      "project": "DCMTK",
+      "repo": "DCMTK/DCMTK",
+      "tag": "2dd54ca1c28100b820ccf1383a0948e889246f96",
+      "url": "https://codeload.github.com/DCMTK/DCMTK/zip/2dd54ca1c28100b820ccf1383a0948e889246f96",
+      "sha256": "323ba6cfa9740de0b23b1c17d7abe6a82f62b34982688f91df4bb0109b8c9abb",
+      "bytes": 13173920
+    },
+    {
+      "project": "PythonQt",
+      "repo": "commontk/PythonQt",
+      "tag": "74dcd675e1515324cd7467a328d63dd25d263679",
+      "url": "https://codeload.github.com/commontk/PythonQt/zip/74dcd675e1515324cd7467a328d63dd25d263679",
+      "sha256": "93adb77a273769df6c09cf54f42a901bf9c9c23d2f26c784ec9600295981ef0a",
+      "bytes": 1898418
+    },
+    {
+      "project": "qRestAPI",
+      "repo": "commontk/qRestAPI",
+      "tag": "ddc0cfcc220d0ccd02b4afdd699d1e780dac3fa3",
+      "url": "https://codeload.github.com/commontk/qRestAPI/zip/ddc0cfcc220d0ccd02b4afdd699d1e780dac3fa3",
+      "sha256": "21d9ec694f61b80eda24c0c63b46dc6998d497d59b170cafc7f38da434755130",
+      "bytes": 27397
+    },
+    {
+      "project": "QtSOAP",
+      "repo": "commontk/QtSOAP",
+      "tag": "2e967e902c27b4ab76f8dcbffbf6037eac4abd05",
+      "url": "https://codeload.github.com/commontk/QtSOAP/zip/2e967e902c27b4ab76f8dcbffbf6037eac4abd05",
+      "sha256": "ee6bca003493a26f82925f6a7deec6e90399229cc162ea76fc1e2ffd2e3fc032",
+      "bytes": 190300
+    },
+    {
+      "project": "qxmlrpc",
+      "repo": "commontk/qxmlrpc",
+      "tag": "1d46d0e24d68049e726269dd3c6438671cd693ea",
+      "url": "https://codeload.github.com/commontk/qxmlrpc/zip/1d46d0e24d68049e726269dd3c6438671cd693ea",
+      "sha256": "1a85d293f8ff146a9f4d94672dced5f8b712b6692ef7e62873b8fc35f8fb7cd4",
+      "bytes": 65171
+    },
+    {
+      "project": "Log4Qt",
+      "repo": "MEONMedical/Log4Qt",
+      "tag": "7406782e7d3babe95486b84ee97fc39c927a8c0f",
+      "url": "https://codeload.github.com/MEONMedical/Log4Qt/zip/7406782e7d3babe95486b84ee97fc39c927a8c0f",
+      "sha256": "08f9e0f1c009dbb0321292d5ddf0d698ce49f0cf95aaff000417c5ab9ce82903",
+      "bytes": 292180
+    }
+  ]
+}

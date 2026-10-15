@@ -1,0 +1,4 @@
+CT3D development build. No license for original CT3D code has yet been selected by the project owner.
+Template-derived files retain their upstream notices; see licenses/KitwareMedical-SlicerCustomAppTemplate-Apache-2.0.txt.
+Slicer and bundled dependencies retain their own licenses and notices.
+This notice does not grant an open-source license for original CT3D code.
